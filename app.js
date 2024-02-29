@@ -19,5 +19,5 @@ setInterval(() => {
    
 
     let time = document.querySelector(".clock");
-    time.innerText = `${h} : ${m} : ${s} ${session}`
+    time.innerText = `${h}  : ${m}  : ${s}   ${session}`;
 },1000)
